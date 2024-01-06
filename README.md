@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwhitejr
 - 👀 I’m interested in delicious coffee.
-- 🌱 I’m currently learning ~Go~ Unity.
+- 🌱 I’m currently learning ~Unity~ Godot.
 - 🏠 Find me at dev.to/kwhitejr or kwhitejr.com
 
 <!---
